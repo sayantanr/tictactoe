@@ -1,3 +1,5 @@
+
+this app requires pygame  as  its package  dependancy
 # Tic Tac Toe made using Pygame.
 A well known two player game made using Python and Pygame.
 
